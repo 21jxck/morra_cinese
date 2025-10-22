@@ -16,4 +16,4 @@ Premendo il bottone sceglierete il vostro segno che verrà
 confrontato con il segno scelto randomicamente (Random().nextInt(3)) 
 dall'AI, e in base all'esito verrà mostrato 'HAI VINTO', 'HAI PAREGGIATO'
 o 'HAI PERSO'. Si può giocare all'infinito.
---------------------------
+##
